@@ -24,4 +24,6 @@ Similarly to remove spacing margin-top: 0cm; is put
 
 ![image](https://github.com/EaswaranPottiK/TheGalleryCake/assets/38095510/abd41a74-ca01-48f1-81d1-8ea0f3e02577)
 
-Last section consists of preformatted text box using pre tag
+Last section consists of preformatted text achieved using pre tag 
+
+
